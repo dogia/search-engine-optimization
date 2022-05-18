@@ -1,4 +1,4 @@
-# Search Engine Optimization (SEO) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Search Engine Optimization (SEO) [![Awesome](https://awesome.re/badge.svg)]
 
 A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 
